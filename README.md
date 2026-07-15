@@ -1,5 +1,7 @@
 # Bind It
 
+![Bind It menu](menu.png)
+
 A client-side Fabric mod for Minecraft 26.1.2 that binds single keys or key combinations to chat messages and commands.
 
 ## Features
