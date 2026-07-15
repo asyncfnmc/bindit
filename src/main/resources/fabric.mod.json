@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "bindit",
+  "version": "${version}",
+  "name": "Bind It",
+  "description": "Accessible keyboard shortcuts for chat messages and commands.",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.bindit.BindItClient"],
+    "modmenu": ["dev.bindit.BindItModMenu"]
+  },
+  "depends": { "fabricloader": ">=0.19.0", "minecraft": "26.1.2", "fabric-api": "*" },
+  "suggests": { "modmenu": "*" }
+}

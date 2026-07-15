@@ -1,0 +1,12 @@
+{
+  "bindit.title": "Bind It",
+  "bindit.add": "Add binding",
+  "bindit.edit": "Edit",
+  "bindit.remove": "Remove",
+  "bindit.done": "Done",
+  "bindit.save": "Save binding",
+  "bindit.cancel": "Cancel",
+  "bindit.capture": "Press shortcut…",
+  "bindit.message": "Message or /command",
+  "bindit.name": "Binding name"
+}
