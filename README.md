@@ -26,6 +26,10 @@ The distributable jar is written to `build/libs/`.
 - Fabric API for Minecraft 26.1.2
 - Mod Menu is optional and supported when installed.
 
+<p align="center">
+  <img src="src/main/resources/assets/bindit/icon.png" alt="Bind It icon" width="128" height="128">
+</p>
+
 ## License
 
 Source available for personal, non-commercial use only. See [LICENSE](LICENSE).

@@ -3,7 +3,12 @@
   "id": "bindit",
   "version": "${version}",
   "name": "Bind It",
-  "description": "Accessible keyboard shortcuts for chat messages and commands.",
+  "description": "Bind single keys or key combinations to chat messages and commands.",
+  "authors": [
+    "asyncfn"
+  ],
+  "license": "Source Available - Personal Use Only, All Rights Reserved",
+  "icon": "assets/bindit/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": ["dev.bindit.BindItClient"],
