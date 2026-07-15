@@ -25,3 +25,7 @@ The distributable jar is written to `build/libs/`.
 - Fabric Loader 0.19.3+
 - Fabric API for Minecraft 26.1.2
 - Mod Menu is optional and supported when installed.
+
+## License
+
+Source available for personal, non-commercial use only. See [LICENSE](LICENSE).
